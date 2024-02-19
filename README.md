@@ -27,6 +27,6 @@ rx3c2f (rx3's Command and Control Framework) is my first GitHub repo. It is a C2
 ### Installation
 
    ```bash
-   git clone https://github.com/Rakon/rx3c2f.git
+   git clone https://github.com/RakonR/rx3c2f.git
    cd rx3c2f
    python3 setup.py
